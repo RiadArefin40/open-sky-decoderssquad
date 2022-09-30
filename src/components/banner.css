@@ -1,0 +1,144 @@
+.banner{
+    background: rgb(197, 91, 49);
+    color: white;
+    border-radius: 50px 50px 50px 50px;
+    position: relative;
+  
+}
+.navbar{
+    background: rgb(197, 91, 49);
+    width: 85px;
+    border-radius: 50px 50px 50px 50px;
+    position: absolute;
+    margin: 5px;
+   
+
+}
+.chart{
+    width: 50%;
+}
+.navbar-bg{
+    background-color:rgb(244, 252, 249);
+    
+    width: 80px;
+    height: 80px;
+    margin-top: -18px;
+    border-radius: 50px 50px 50px 50px ;
+}
+.navbar-bg-user{
+    background-color:rgb(244, 252, 249);
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    position: relative;
+     margin-bottom: -17px;
+    border-radius: 50px 50px 50px 50px ;
+    
+}
+.temperature {
+    width: 40%;
+    background-color: rgb(244, 252, 249);
+    border-radius: 50px 50px 50px 50px;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -80px;
+    position: relative;
+}
+.location{
+
+
+}
+.office{
+    background-color: rgb(240, 239, 239);
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+}
+.office:hover{
+    background: rgb(197, 91, 49);
+    color: white;
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.Living-room:hover{
+    background-color: rgb(240, 239, 239);
+    color:black;
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+}
+.Living-room{
+    background: rgb(197, 91, 49);
+    color: white;
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.kitchen{
+    background-color: rgb(240, 239, 239);
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+}
+.kitchen:hover{
+    background: rgb(197, 91, 49);
+    color: white;
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.add{
+    background-color: rgb(240, 239, 239);
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+}
+.add:hover{
+    background: rgb(197, 91, 49);
+    color: white;
+    padding: 50px;
+    width: 250px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.methane{
+    background-color: rgb(240, 239, 239);
+    padding: 15px;
+    width: 250px;
+    border-radius: 25px;
+
+}
+.lpg{
+    background-color: rgb(240, 239, 239);
+    padding: 15px;
+    width: 250px;
+    border-radius: 25px;
+}
+.carbon{
+    background-color: rgb(240, 239, 239);
+    padding: 15px;
+    width: 250px;
+    border-radius: 25px;
+}
+.ammonia{
+    background-color: rgb(240, 239, 239);
+    
+    width: 250px;
+    border-radius: 25px;
+}
+.nitrogen{
+    background-color: rgb(240, 239, 239);
+    padding: 15px;
+    width: 250px;
+    border-radius: 25px;
+}
+.sulfur{
+    background-color: rgb(240, 239, 239);
+    padding: 15px;
+    width: 250px;
+    border-radius: 25px;
+}
